@@ -58,4 +58,4 @@ At the end of this project, We were able to undesrtand these questions:
 41. What are the average time complexities of those operation
 # Authors
 1) [Getinet Amare](https://github.com/gama1221) 
-2) [Asefa Mulusew] (https://github.com/ase12345)
+2) [Asefa Mulusew](https://github.com/ase12345)
